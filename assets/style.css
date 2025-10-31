@@ -1,0 +1,19 @@
+.stColumn st-emotion-cache-kt9vas e196pkbe1{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #1c420b;
+}
+
+.diagnosis {
+    color: #ffff;
+    padding: 0.2em 0.5rem;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign {
+    background-color: #01db4b;
+}
+
+.diagnosis.malicious {
+    background-color: #ff4b4b;
+}

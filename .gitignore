@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.env
+.env
+env/
+venv/
+venv*/
+venv/*
+
+# VSCode
+.vscode/
+
+# Data and outputs
+data.csv
+/data/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / caches
+*.pyc
+
+# Logs
+*.log
+
+# Optional: Git LFS placeholder (if you decide to use LFS for big files)
